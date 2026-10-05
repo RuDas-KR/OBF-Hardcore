@@ -1,0 +1,271 @@
+{
+  "mystianapiary": {
+    "me_grid_node": true
+  },
+  "minecraft": {
+    "item_storage.show_name_amount": 5,
+    "furnace": true,
+    "harvest_tool.show_unbreakable": false,
+    "animal_owner": true,
+    "harvest_tool.effective_tool": true,
+    "item_storage": true,
+    "item_storage.normal_amount": 9,
+    "harvest_tool": true,
+    "armor_stand": true,
+    "fluid_storage.detailed": false,
+    "energy_storage": true,
+    "entity_armor.max_for_render": 40,
+    "breaking_progress": true,
+    "tnt_stability": true,
+    "item_storage.items_per_line": 9,
+    "item_frame": true,
+    "crop_progress": true,
+    "command_block": true,
+    "mob_growth": true,
+    "waxed": true,
+    "harvest_tool.new_line": false,
+    "entity_health.max_for_render": 40,
+    "entity_health.show_fractions": false,
+    "mob_spawner": true,
+    "redstone": true,
+    "fluid_storage": true,
+    "chicken_egg": true,
+    "jukebox": true,
+    "brewing_stand": true,
+    "energy_storage.detailed": false,
+    "note_block": true,
+    "beehive": true,
+    "item_storage.detailed_amount": 54,
+    "player_head": true,
+    "block_states": false,
+    "lectern": true,
+    "entity_armor": true,
+    "harvest_tool.creative": false,
+    "horse_stats": true,
+    "item_tooltip": true,
+    "entity_health": true,
+    "enchantment_power": true,
+    "zombie_villager": true,
+    "villager_profession": true,
+    "mob_breeding": true,
+    "entity_health.icons_per_line": 10,
+    "total_enchantment_power": true,
+    "potion_effects": true,
+    "painting": true,
+    "chiseled_bookshelf": true
+  },
+  "agricraft": {
+    "soil": true,
+    "crop_block": true
+  },
+  "buildcraftlib": {
+    "jade_block_details": true,
+    "jade_block": true,
+    "jade_pipe_details": true,
+    "jade_robot_details": true,
+    "jade_robot": true,
+    "jade_owner": false
+  },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
+  "jadeaddons.mcjtylib": {
+    "jadeaddons": true
+  },
+  "mekanismcovers": {
+    "cover_component": true
+  },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
+  "jademoddedentities": {
+    "villager": true
+  },
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": true
+  },
+  "complicated_bees": {
+    "show_cycle_ticks": false,
+    "apiary_errors": true,
+    "show_errors": true,
+    "bee_nest_type": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
+  "extendedcrafting": {
+    "elite_auto_table": true,
+    "ender_crafter": true,
+    "basic_auto_table": true,
+    "flux_crafter": true,
+    "advanced_table": true,
+    "auto_ender_crafter": true,
+    "ultimate_table": true,
+    "ultimate_auto_table": true,
+    "elite_table": true,
+    "basic_table": true,
+    "crafting_core": true,
+    "advanced_auto_table": true,
+    "compressor": true
+  },
+  "projecte": {
+    "emc_provider": true
+  },
+  "mekanism": {
+    "infuse_type": true,
+    "gas": true,
+    "remove_builtin": true,
+    "pigment": true,
+    "fluid": true,
+    "slurry": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "industrial_core": {
+    "machine": true
+  },
+  "touhou_little_maid": {
+    "maid": true,
+    "shrine_lamp": true
+  },
+  "reliquary": {
+    "pedestal": true,
+    "altar": true,
+    "mortar": true,
+    "cauldron": true
+  },
+  "woot_revived": {
+    "machines": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "astages": {
+    "block_component_provider": true
+  },
+  "treetap": {
+    "tap": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
+  },
+  "railcraft": {
+    "signals": true,
+    "track_component": true,
+    "locomotive": true,
+    "switch_track": true
+  },
+  "tombstone": {
+    "decorative_graves": true,
+    "player_graves": true
+  },
+  "mana_jade": {
+    "runic_altar_recipe_progress": true,
+    "mana_storage": true,
+    "generating_flora_info.endoflame_info": true,
+    "misc_flora_info": true,
+    "mana_storage.mana_spreader": true,
+    "mana_storage.special_flora": true,
+    "generating_flora_info.rosa_arcana_info": true,
+    "mana_pool_catalyst": true,
+    "misc_flora_info.pure_daisy_info": true,
+    "generating_flora_info.thermalily_info": true,
+    "misc_flora_info.mana_star_info": true,
+    "generating_flora_info": true,
+    "generating_flora_info.entropinnyum_info": true,
+    "mana_spreader_burst_info": true,
+    "generating_flora_info.hydroangeas_info": true,
+    "generating_flora_info.munchdew_info": true,
+    "mana_storage.mana_pool": true,
+    "terra_plate_recipe_progress": true
+  },
+  "mekajadeupgrade": {
+    "upgrades": true
+  },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
+  },
+  "apotheosis": {
+    "adventure": true,
+    "ench": true,
+    "spawner": true
+  },
+  "immersiveconvergence": {
+    "lines": true,
+    "status": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "integrateddynamicscompat": {
+    "proxy": true,
+    "mechanical_squeezer": true,
+    "mechanical_drying_basin": true,
+    "drying_basin": true,
+    "part": true,
+    "squeezer": true
+  },
+  "productivebees": {
+    "solitary_nest": true,
+    "jar": true,
+    "canvas_beehive": true,
+    "bee_attributes": true,
+    "productive_bee": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "jadecolonies": {
+    "colony.citizens": true,
+    "colony.visitor_cost": true,
+    "colony.pack": true,
+    "colony.colonist": true,
+    "domum.materials": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
+  }
+}

@@ -1,0 +1,39 @@
+
+#Machine Energy Storage Config. This config is synced from server to client.
+[storage]
+	#Base energy storage (Joules).
+	recycler = "200000"
+	#Base energy storage (Joules).
+	plantingStation = "800000"
+	#Base energy storage (Joules).
+	cnc_stamper = "200000"
+	#Base energy storage (Joules).
+	cnc_lathe = "200000"
+	#Base energy storage (Joules).
+	cnc_rollingMill = "200000"
+	#Base energy storage (Joules).
+	ambientGasCollector = "400000"
+	#Base energy storage (Joules).
+	wirelessChargingStation = "100000000"
+	#Base energy storage (Joules).
+	largeRotaryCondensentrator = "40960000"
+	#Base energy storage (Joules).
+	largeChemicalInfuser = "163840000"
+	#Base energy storage (Joules).
+	largeElectrolyticSeparator = "327680000"
+	#Base energy storage (Joules).
+	largeAntiprotonicNucleosynthesizer = "640000000000"
+	#Base energy storage (Joules).
+	largePigmentMixer = "163840000"
+	#Base energy storage (Joules).
+	largeHeatGenerator = "2566000000"
+	#Base energy storage (Joules).
+	largeWindGenerator = "2566000000"
+
+	#Settings for configuring Replicator Energy Storage
+	[storage.replicator]
+		#Base energy storage (Joules).
+		itemReplicator = "102400000"
+		#Base energy storage (Joules).
+		fluidReplicator = "102400000"
+

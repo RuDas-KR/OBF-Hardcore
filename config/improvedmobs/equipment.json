@@ -1,0 +1,3812 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "ae2:certus_quartz_axe": [
+      26093,
+      0.51635593
+    ],
+    "ae2:certus_quartz_sword": [
+      26180,
+      0.049
+    ],
+    "ae2:fluix_axe": [
+      25229,
+      1.6502495
+    ],
+    "ae2:fluix_sword": [
+      25321,
+      1.531011
+    ],
+    "ae2:nether_quartz_axe": [
+      26093,
+      0.51635593
+    ],
+    "ae2:nether_quartz_sword": [
+      26180,
+      0.049
+    ],
+    "alexscaves:desolate_dagger": [
+      23990,
+      4.753436
+    ],
+    "alexsmobs:skelewag_sword": [
+      25904,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      26201,
+      0.0469
+    ],
+    "allthemodium:alloy_axe": [
+      0,
+      56.88164
+    ],
+    "allthemodium:alloy_sword": [
+      48,
+      56.77409
+    ],
+    "allthemodium:allthemodium_axe": [
+      832,
+      55.01852
+    ],
+    "allthemodium:allthemodium_sword": [
+      878,
+      54.915585
+    ],
+    "allthemodium:unobtainium_axe": [
+      228,
+      56.370815
+    ],
+    "allthemodium:unobtainium_sword": [
+      422,
+      55.936314
+    ],
+    "allthemodium:vibranium_axe": [
+      664,
+      55.394516
+    ],
+    "allthemodium:vibranium_sword": [
+      704,
+      55.304985
+    ],
+    "animus:hellforged_bow": [
+      23370,
+      6.0669603
+    ],
+    "animus:sentient_bow": [
+      23870,
+      5.0117817
+    ],
+    "aquaculture:diamond_fillet_knife": [
+      24672,
+      2.3810277
+    ],
+    "aquaculture:gold_fillet_knife": [
+      26630,
+      0.0039999997
+    ],
+    "aquaculture:iron_fillet_knife": [
+      26348,
+      0.0322
+    ],
+    "aquaculture:neptunium_axe": [
+      23447,
+      5.9057183
+    ],
+    "aquaculture:neptunium_bow": [
+      19870,
+      13.389866
+    ],
+    "aquaculture:neptunium_fillet_knife": [
+      26661,
+      8.999999E-4
+    ],
+    "aquaculture:neptunium_sword": [
+      23513,
+      5.767269
+    ],
+    "aquaculture:stone_fillet_knife": [
+      26502,
+      0.0168
+    ],
+    "aquaculture:wooden_fillet_knife": [
+      26596,
+      0.0074
+    ],
+    "aquaculturedelight:neptunium_knife": [
+      23573,
+      5.6411676
+    ],
+    "ars_nouveau:enchanters_sword": [
+      23099,
+      6.632802
+    ],
+    "ars_nouveau:spell_bow": [
+      24870,
+      2.1195521
+    ],
+    "ars_nouveau:spell_crossbow": [
+      25326,
+      1.5245426
+    ],
+    "bhc:blade_of_vitality": [
+      23099,
+      6.632802
+    ],
+    "bloodmagic:soulaxe": [
+      25786,
+      0.93313384
+    ],
+    "bloodmagic:soulsword": [
+      25786,
+      0.93313384
+    ],
+    "botania:crystal_bow": [
+      23870,
+      5.0117817
+    ],
+    "botania:elementium_axe": [
+      25294,
+      1.5659617
+    ],
+    "botania:elementium_sword": [
+      25381,
+      1.4534681
+    ],
+    "botania:ender_dagger": [
+      26488,
+      0.018199999
+    ],
+    "botania:livingwood_bow": [
+      23870,
+      5.0117817
+    ],
+    "botania:manasteel_axe": [
+      26008,
+      0.6416611
+    ],
+    "botania:manasteel_sword": [
+      26095,
+      0.5130528
+    ],
+    "botania:star_sword": [
+      22641,
+      7.5865693
+    ],
+    "botania:terra_axe": [
+      22571,
+      7.7322817
+    ],
+    "botania:terra_sword": [
+      22641,
+      7.5865693
+    ],
+    "botania:thunder_sword": [
+      22641,
+      7.5865693
+    ],
+    "butchery:bone_cleaver": [
+      26556,
+      0.011399999
+    ],
+    "butchery:bone_hacksaw": [
+      26556,
+      0.011399999
+    ],
+    "butchery:bone_skinning_knife": [
+      26556,
+      0.011399999
+    ],
+    "butchery:copper_cleaver": [
+      26423,
+      0.024699999
+    ],
+    "butchery:copper_hacksaw": [
+      26444,
+      0.022599999
+    ],
+    "butchery:copper_skinning_knife": [
+      26423,
+      0.024699999
+    ],
+    "butchery:diamond_cleaver": [
+      23952,
+      4.8356147
+    ],
+    "butchery:diamond_hacksaw": [
+      24003,
+      4.7252297
+    ],
+    "butchery:diamond_skinning_knife": [
+      23952,
+      4.8356147
+    ],
+    "butchery:gold_cleaver": [
+      26602,
+      0.0068
+    ],
+    "butchery:gold_hacksaw": [
+      26602,
+      0.0068
+    ],
+    "butchery:gold_skinning_knife": [
+      26602,
+      0.0068
+    ],
+    "butchery:iron_cleaver": [
+      26201,
+      0.0469
+    ],
+    "butchery:iron_hacksaw": [
+      26231,
+      0.043899998
+    ],
+    "butchery:iron_skinning_knife": [
+      26201,
+      0.0469
+    ],
+    "butchery:netherite_cleaver": [
+      23126,
+      6.576508
+    ],
+    "butchery:netherite_hacksaw": [
+      24003,
+      4.7252297
+    ],
+    "butchery:netherite_skinning_knife": [
+      23126,
+      6.576508
+    ],
+    "cataclysm:athame": [
+      26201,
+      0.0469
+    ],
+    "cataclysm:black_steel_axe": [
+      25243,
+      1.6320775
+    ],
+    "cataclysm:black_steel_sword": [
+      25330,
+      1.5193686
+    ],
+    "cataclysm:khopesh": [
+      25351,
+      1.4922183
+    ],
+    "create:cardboard_sword": [
+      26605,
+      0.0064999997
+    ],
+    "cyclic:amethyst_axe": [
+      26082,
+      0.5340514
+    ],
+    "cyclic:amethyst_sword": [
+      26170,
+      0.049999997
+    ],
+    "cyclic:copper_axe": [
+      26212,
+      0.045799997
+    ],
+    "cyclic:copper_sword": [
+      26293,
+      0.037699997
+    ],
+    "cyclic:crystal_axe": [
+      15754,
+      22.170626
+    ],
+    "cyclic:crystal_sword": [
+      15791,
+      22.090956
+    ],
+    "cyclic:emerald_axe": [
+      23753,
+      5.2610183
+    ],
+    "cyclic:emerald_sword": [
+      23827,
+      5.1036334
+    ],
+    "cyclic:netherbrick_axe": [
+      26341,
+      0.032899998
+    ],
+    "cyclic:netherbrick_sword": [
+      26387,
+      0.028299998
+    ],
+    "cyclic:sandstone_axe": [
+      26337,
+      0.033299997
+    ],
+    "cyclic:sandstone_sword": [
+      26379,
+      0.029099997
+    ],
+    "deeperdarker:resonarium_axe": [
+      24490,
+      3.5768492
+    ],
+    "deeperdarker:resonarium_sword": [
+      24552,
+      3.385685
+    ],
+    "deeperdarker:warden_axe": [
+      22158,
+      8.592401
+    ],
+    "deeperdarker:warden_sword": [
+      22236,
+      8.429875
+    ],
+    "draconicevolution:chaotic_axe": [
+      26187,
+      0.048299998
+    ],
+    "draconicevolution:chaotic_bow": [
+      24872,
+      2.1169202
+    ],
+    "draconicevolution:chaotic_sword": [
+      26347,
+      0.0323
+    ],
+    "draconicevolution:draconic_axe": [
+      26479,
+      0.0191
+    ],
+    "draconicevolution:draconic_bow": [
+      24872,
+      2.1169202
+    ],
+    "draconicevolution:draconic_sword": [
+      26557,
+      0.011299999
+    ],
+    "draconicevolution:wyvern_axe": [
+      26441,
+      0.022899998
+    ],
+    "draconicevolution:wyvern_bow": [
+      24872,
+      2.1169202
+    ],
+    "draconicevolution:wyvern_sword": [
+      26529,
+      0.014099999
+    ],
+    "earlysurvival:flint_axe": [
+      26538,
+      0.013199999
+    ],
+    "earlysurvival:flint_knife": [
+      26601,
+      0.0069
+    ],
+    "electrodynamics:electricbaton": [
+      26669,
+      1.0E-4
+    ],
+    "embers:dawnstone_axe": [
+      25406,
+      1.4212085
+    ],
+    "embers:dawnstone_sword": [
+      25499,
+      1.3014423
+    ],
+    "embers:lead_axe": [
+      26233,
+      0.0437
+    ],
+    "embers:lead_sword": [
+      26320,
+      0.035
+    ],
+    "embers:silver_axe": [
+      26175,
+      0.049499996
+    ],
+    "embers:silver_sword": [
+      26262,
+      0.040799998
+    ],
+    "embers:tyrfing": [
+      25773,
+      0.9498429
+    ],
+    "embers_extended:duskstone_axe": [
+      23277,
+      6.261382
+    ],
+    "embers_extended:duskstone_sword": [
+      23355,
+      6.09834
+    ],
+    "embers_extended:nightstone_axe": [
+      21731,
+      9.483093
+    ],
+    "embers_extended:nightstone_sword": [
+      21747,
+      9.449685
+    ],
+    "enderio:dark_steel_sword": [
+      23180,
+      6.463877
+    ],
+    "experienceobelisk:cognitive_axe": [
+      24916,
+      2.0590668
+    ],
+    "experienceobelisk:cognitive_bow": [
+      23200,
+      6.422146
+    ],
+    "experienceobelisk:cognitive_sword": [
+      25015,
+      1.9292376
+    ],
+    "forbidden_arcanus:draco_arcanus_axe": [
+      21889,
+      9.153307
+    ],
+    "forbidden_arcanus:draco_arcanus_sword": [
+      21911,
+      9.107409
+    ],
+    "forbidden_arcanus:mystical_dagger": [
+      25690,
+      1.0563377
+    ],
+    "forbidden_arcanus:reinforced_deorum_axe": [
+      22147,
+      8.615326
+    ],
+    "forbidden_arcanus:reinforced_deorum_sword": [
+      22213,
+      8.477796
+    ],
+    "forestry:bronze_axe": [
+      26178,
+      0.0492
+    ],
+    "forestry:bronze_sword": [
+      26253,
+      0.041699998
+    ],
+    "hexerei:warhammer": [
+      23099,
+      6.632802
+    ],
+    "iguanatweaksreborn:copper_axe": [
+      26194,
+      0.047599997
+    ],
+    "iguanatweaksreborn:copper_sword": [
+      26302,
+      0.036799997
+    ],
+    "iguanatweaksreborn:flint_axe": [
+      26332,
+      0.0338
+    ],
+    "iguanatweaksreborn:flint_sword": [
+      26448,
+      0.0222
+    ],
+    "iguanatweaksreborn:shortbow": [
+      24616,
+      3.1228178
+    ],
+    "immersiveengineering:axe_steel": [
+      25411,
+      1.41476
+    ],
+    "immersiveengineering:sword_steel": [
+      25491,
+      1.3117309
+    ],
+    "industrialupgrade:energy_tools/nano_bow": [
+      24870,
+      2.1195521
+    ],
+    "industrialupgrade:energy_tools/quantum_bow": [
+      24870,
+      2.1195521
+    ],
+    "industrialupgrade:energy_tools/spectral_bow": [
+      24870,
+      2.1195521
+    ],
+    "industrialupgrade:ruby_axe": [
+      25456,
+      1.3567728
+    ],
+    "industrialupgrade:sapphire_axe": [
+      25456,
+      1.3567728
+    ],
+    "industrialupgrade:topaz_axe": [
+      25456,
+      1.3567728
+    ],
+    "irons_spellbooks:amethyst_rapier": [
+      23099,
+      6.632802
+    ],
+    "irons_spellbooks:autoloader_crossbow": [
+      24396,
+      3.826627
+    ],
+    "irons_spellbooks:boreal_blade": [
+      22926,
+      6.9932466
+    ],
+    "irons_spellbooks:claymore": [
+      24781,
+      2.236861
+    ],
+    "irons_spellbooks:decrepit_scythe": [
+      24740,
+      2.2910256
+    ],
+    "irons_spellbooks:hellrazor": [
+      22972,
+      6.8974404
+    ],
+    "irons_spellbooks:keeper_flamberge": [
+      24740,
+      2.2910256
+    ],
+    "irons_spellbooks:legionnaire_flamberge": [
+      22988,
+      6.8641124
+    ],
+    "irons_spellbooks:magehunter": [
+      23927,
+      4.889481
+    ],
+    "irons_spellbooks:misery": [
+      24748,
+      2.280451
+    ],
+    "irons_spellbooks:spellbreaker": [
+      23029,
+      6.778693
+    ],
+    "irons_spellbooks:twilight_gale": [
+      22972,
+      6.8974404
+    ],
+    "malum:soul_stained_steel_axe": [
+      24468,
+      3.6383376
+    ],
+    "malum:soul_stained_steel_sword": [
+      24525,
+      3.4730425
+    ],
+    "malum:tyrving": [
+      24076,
+      4.565825
+    ],
+    "malum:weight_of_worlds": [
+      22174,
+      8.559058
+    ],
+    "mekanism:electric_bow": [
+      24870,
+      2.1195521
+    ],
+    "minecolonies:chiefsword": [
+      23927,
+      4.889481
+    ],
+    "minecolonies:iron_scimitar": [
+      26180,
+      0.049
+    ],
+    "minecolonies:pharaoscepter": [
+      24102,
+      4.508568
+    ],
+    "minecraft:bow": [
+      24102,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      24396,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      23865,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      23927,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      25070,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      26526,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      26589,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      26093,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      26180,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      25170,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      23029,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      23099,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      26120,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      25170,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      26296,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      26404,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      24970,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      24170,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      26480,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      26543,
+      0.0127
+    ],
+    "mob_grinding_utils:null_sword": [
+      23927,
+      4.889481
+    ],
+    "mowziesmobs:blowgun": [
+      24270,
+      4.129458
+    ],
+    "mowziesmobs:wrought_axe": [
+      26093,
+      0.51635593
+    ],
+    "mysticalagriculture:awakened_supremium_axe": [
+      25730,
+      1.0050428
+    ],
+    "mysticalagriculture:awakened_supremium_bow": [
+      24872,
+      2.1169202
+    ],
+    "mysticalagriculture:awakened_supremium_crossbow": [
+      25328,
+      1.5219555
+    ],
+    "mysticalagriculture:awakened_supremium_scythe": [
+      25806,
+      0.9074007
+    ],
+    "mysticalagriculture:awakened_supremium_sword": [
+      25866,
+      0.82990474
+    ],
+    "mysticalagriculture:creative_soulium_dagger": [
+      25286,
+      1.5763245
+    ],
+    "mysticalagriculture:diamond_scythe": [
+      23898,
+      4.951788
+    ],
+    "mysticalagriculture:hostile_soulium_dagger": [
+      25121,
+      1.7907621
+    ],
+    "mysticalagriculture:imperium_axe": [
+      16074,
+      21.48197
+    ],
+    "mysticalagriculture:imperium_bow": [
+      12870,
+      28.414837
+    ],
+    "mysticalagriculture:imperium_crossbow": [
+      13326,
+      27.423325
+    ],
+    "mysticalagriculture:imperium_scythe": [
+      16132,
+      21.35725
+    ],
+    "mysticalagriculture:imperium_sword": [
+      16156,
+      21.305649
+    ],
+    "mysticalagriculture:inferium_axe": [
+      23040,
+      6.755772
+    ],
+    "mysticalagriculture:inferium_bow": [
+      20870,
+      11.285271
+    ],
+    "mysticalagriculture:inferium_crossbow": [
+      21326,
+      10.3297
+    ],
+    "mysticalagriculture:inferium_scythe": [
+      23118,
+      6.59319
+    ],
+    "mysticalagriculture:inferium_sword": [
+      23151,
+      6.5243726
+    ],
+    "mysticalagriculture:passive_soulium_dagger": [
+      25121,
+      1.7907621
+    ],
+    "mysticalagriculture:prudentium_axe": [
+      21664,
+      9.62302
+    ],
+    "mysticalagriculture:prudentium_bow": [
+      19270,
+      14.6584835
+    ],
+    "mysticalagriculture:prudentium_crossbow": [
+      19726,
+      13.693941
+    ],
+    "mysticalagriculture:prudentium_scythe": [
+      21680,
+      9.5896
+    ],
+    "mysticalagriculture:prudentium_sword": [
+      21721,
+      9.503976
+    ],
+    "mysticalagriculture:soulium_dagger": [
+      25900,
+      0.7856766
+    ],
+    "mysticalagriculture:supremium_axe": [
+      25978,
+      0.6824964
+    ],
+    "mysticalagriculture:supremium_bow": [
+      24872,
+      2.1169202
+    ],
+    "mysticalagriculture:supremium_crossbow": [
+      25328,
+      1.5219555
+    ],
+    "mysticalagriculture:supremium_scythe": [
+      26078,
+      0.540316
+    ],
+    "mysticalagriculture:supremium_sword": [
+      26124,
+      0.4604861
+    ],
+    "mysticalagriculture:tertium_axe": [
+      19578,
+      14.006724
+    ],
+    "mysticalagriculture:tertium_bow": [
+      16870,
+      19.772957
+    ],
+    "mysticalagriculture:tertium_crossbow": [
+      17326,
+      18.796621
+    ],
+    "mysticalagriculture:tertium_scythe": [
+      19612,
+      13.934846
+    ],
+    "mysticalagriculture:tertium_sword": [
+      19624,
+      13.909479
+    ],
+    "natprog:bone_knife": [
+      26616,
+      0.0053999997
+    ],
+    "natprog:bronze_saw": [
+      25870,
+      0.8247162
+    ],
+    "natprog:copper_saw": [
+      26313,
+      0.035699997
+    ],
+    "natprog:diamond_saw": [
+      23957,
+      4.8248234
+    ],
+    "natprog:flint_hatchet": [
+      26619,
+      0.0050999997
+    ],
+    "natprog:flint_saw": [
+      26619,
+      0.0050999997
+    ],
+    "natprog:gold_saw": [
+      26605,
+      0.0064999997
+    ],
+    "natprog:iron_saw": [
+      26205,
+      0.0465
+    ],
+    "natprog:netherite_saw": [
+      23134,
+      6.5598264
+    ],
+    "natprog:steel_saw": [
+      25045,
+      1.8899902
+    ],
+    "naturesaura:depth_axe": [
+      22190,
+      8.525718
+    ],
+    "naturesaura:depth_sword": [
+      22268,
+      8.363213
+    ],
+    "naturesaura:infused_iron_axe": [
+      26093,
+      0.51635593
+    ],
+    "naturesaura:infused_iron_sword": [
+      26180,
+      0.049
+    ],
+    "naturesaura:sky_axe": [
+      23968,
+      4.8010597
+    ],
+    "naturesaura:sky_sword": [
+      24030,
+      4.666484
+    ],
+    "notreepunching:diamond_knife": [
+      23973,
+      4.790248
+    ],
+    "notreepunching:diamond_saw": [
+      23952,
+      4.8356147
+    ],
+    "notreepunching:flint_axe": [
+      26533,
+      0.0137
+    ],
+    "notreepunching:flint_knife": [
+      26559,
+      0.0111
+    ],
+    "notreepunching:gold_knife": [
+      26611,
+      0.0058999998
+    ],
+    "notreepunching:gold_saw": [
+      26602,
+      0.0068
+    ],
+    "notreepunching:iron_knife": [
+      26218,
+      0.045199998
+    ],
+    "notreepunching:iron_saw": [
+      26201,
+      0.0469
+    ],
+    "notreepunching:macuahuitl": [
+      26533,
+      0.0137
+    ],
+    "notreepunching:netherite_knife": [
+      23153,
+      6.5202
+    ],
+    "notreepunching:netherite_saw": [
+      23128,
+      6.5723376
+    ],
+    "occultism:butcher_knife": [
+      26180,
+      0.049
+    ],
+    "powergrid:electrobaton": [
+      26634,
+      0.0035999997
+    ],
+    "powergrid:portable_saw": [
+      26218,
+      0.045199998
+    ],
+    "primalextinction:bone_axe": [
+      26473,
+      0.019699998
+    ],
+    "primalextinction:bone_spear": [
+      26486,
+      0.018399999
+    ],
+    "primalextinction:club": [
+      26541,
+      0.0128999995
+    ],
+    "primalextinction:crude_axe": [
+      26473,
+      0.019699998
+    ],
+    "primalextinction:crude_spear": [
+      26486,
+      0.018399999
+    ],
+    "primalextinction:flint_axe": [
+      26371,
+      0.0299
+    ],
+    "primalextinction:flint_spear": [
+      26308,
+      0.036199998
+    ],
+    "primalextinction:flintknife": [
+      26469,
+      0.0201
+    ],
+    "primalextinction:obsidian_axe": [
+      25063,
+      1.8664628
+    ],
+    "primalextinction:obsidian_spear": [
+      25096,
+      1.8233712
+    ],
+    "primalextinction:pitchfork": [
+      26310,
+      0.036
+    ],
+    "primalextinction:poison_spear": [
+      26473,
+      0.019699998
+    ],
+    "projecte:dm_axe": [
+      26518,
+      0.015199999
+    ],
+    "projecte:dm_sword": [
+      26424,
+      0.0246
+    ],
+    "projecte:rm_axe": [
+      26481,
+      0.0189
+    ],
+    "projecte:rm_sword": [
+      26356,
+      0.0314
+    ],
+    "railcraft:steel_axe": [
+      25668,
+      1.0845418
+    ],
+    "railcraft:steel_sword": [
+      25743,
+      0.988363
+    ],
+    "reliquary:magicbane": [
+      26599,
+      0.0070999996
+    ],
+    "reliquary:mercy_cross": [
+      26373,
+      0.0297
+    ],
+    "rootsclassic:engraved_blade": [
+      24649,
+      2.88177
+    ],
+    "rootsclassic:living_axe": [
+      26155,
+      0.37663084
+    ],
+    "rootsclassic:living_sword": [
+      26279,
+      0.0391
+    ],
+    "tfmg:aluminum_axe": [
+      26144,
+      0.4136078
+    ],
+    "tfmg:aluminum_sword": [
+      26231,
+      0.043899998
+    ],
+    "tfmg:lead_axe": [
+      26512,
+      0.0158
+    ],
+    "tfmg:lead_sword": [
+      26581,
+      0.0089
+    ],
+    "tfmg:lit_lithium_blade": [
+      24851,
+      2.1445646
+    ],
+    "tfmg:lithium_blade": [
+      24880,
+      2.1063945
+    ],
+    "tfmg:steel_axe": [
+      24781,
+      2.236861
+    ],
+    "tfmg:steel_sword": [
+      24880,
+      2.1063945
+    ],
+    "totemic:baykok_bow": [
+      23718,
+      5.3352003
+    ],
+    "tough_beginnings:flint_axe": [
+      26616,
+      0.0053999997
+    ],
+    "tough_beginnings:flintknife": [
+      26616,
+      0.0053999997
+    ],
+    "twilightforest:diamond_minotaur_axe": [
+      23828,
+      5.1015
+    ],
+    "twilightforest:ender_bow": [
+      24102,
+      4.508568
+    ],
+    "twilightforest:fiery_sword": [
+      24811,
+      2.1972775
+    ],
+    "twilightforest:giant_sword": [
+      24694,
+      2.3518867
+    ],
+    "twilightforest:glass_sword": [
+      25631,
+      1.1319785
+    ],
+    "twilightforest:gold_minotaur_axe": [
+      26526,
+      0.014399999
+    ],
+    "twilightforest:ice_bow": [
+      24102,
+      4.508568
+    ],
+    "twilightforest:ice_sword": [
+      26512,
+      0.0158
+    ],
+    "twilightforest:ironwood_axe": [
+      25648,
+      1.1101819
+    ],
+    "twilightforest:ironwood_sword": [
+      25735,
+      0.9986282
+    ],
+    "twilightforest:knightmetal_axe": [
+      25611,
+      1.1576267
+    ],
+    "twilightforest:knightmetal_sword": [
+      25710,
+      1.030694
+    ],
+    "twilightforest:seeker_bow": [
+      24102,
+      4.508568
+    ],
+    "twilightforest:steeleaf_axe": [
+      26259,
+      0.0411
+    ],
+    "twilightforest:steeleaf_sword": [
+      26358,
+      0.031199997
+    ],
+    "twilightforest:triple_bow": [
+      24102,
+      4.508568
+    ],
+    "undergarden:cloggrum_axe": [
+      26032,
+      0.6081686
+    ],
+    "undergarden:cloggrum_battleaxe": [
+      24982,
+      1.9724612
+    ],
+    "undergarden:cloggrum_sword": [
+      26094,
+      0.51470804
+    ],
+    "undergarden:forgotten_axe": [
+      23329,
+      6.152712
+    ],
+    "undergarden:forgotten_battleaxe": [
+      16873,
+      19.766527
+    ],
+    "undergarden:forgotten_sword": [
+      23391,
+      6.0230126
+    ],
+    "undergarden:froststeel_axe": [
+      25541,
+      1.2474661
+    ],
+    "undergarden:froststeel_sword": [
+      25628,
+      1.1358255
+    ],
+    "undergarden:utherium_axe": [
+      24326,
+      3.9977505
+    ],
+    "undergarden:utherium_sword": [
+      24392,
+      3.8366594
+    ],
+    "wstweaks:blaze_blade": [
+      19471,
+      14.233019
+    ],
+    "wstweaks:lava_blade": [
+      19471,
+      14.233019
+    ]
+  },
+  "OFFHAND": {
+    "alexscaves:resistor_shield": [
+      875,
+      4.9045377
+    ],
+    "animus:sentient_shield": [
+      187,
+      6.3553553
+    ],
+    "ars_nouveau:enchanters_shield": [
+      1875,
+      2.053812
+    ],
+    "cataclysm:azure_sea_shield": [
+      1847,
+      2.0906117
+    ],
+    "cataclysm:black_steel_targe": [
+      1195,
+      4.1986494
+    ],
+    "cataclysm:bulwark_of_the_flame": [
+      2875,
+      0.75949734
+    ],
+    "minecraft:ender_pearl": [
+      2525,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      2497,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      2125,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      2203,
+      1.6255897
+    ],
+    "twilightforest:knightmetal_shield": [
+      827,
+      5.0075016
+    ],
+    "undergarden:cloggrum_shield": [
+      1531,
+      3.2997048
+    ]
+  },
+  "FEET": {
+    "alexscaves:diving_boots": [
+      70015,
+      1.1178746
+    ],
+    "alexscaves:gingerbread_boots": [
+      70269,
+      0.79089624
+    ],
+    "alexscaves:hazmat_boots": [
+      70216,
+      0.85967726
+    ],
+    "alexscaves:rainbounce_boots": [
+      70656,
+      0.0387
+    ],
+    "alexsmobs:flying_fish_boots": [
+      70902,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      70340,
+      0.6972618
+    ],
+    "allthemodium:allthemodium_boots": [
+      66848,
+      7.9321356
+    ],
+    "allthemodium:unobtainium_boots": [
+      56321,
+      30.424036
+    ],
+    "allthemodium:vibranium_boots": [
+      62897,
+      16.241629
+    ],
+    "aquaculture:neptunium_boots": [
+      69124,
+      2.2764862
+    ],
+    "ars_nouveau:arcanist_boots": [
+      69818,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_boots": [
+      69058,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_boots": [
+      70234,
+      0.8363856
+    ],
+    "bloodmagic:livingboots": [
+      69867,
+      1.3078723
+    ],
+    "botania:elementium_boots": [
+      69927,
+      1.2307714
+    ],
+    "botania:manasteel_boots": [
+      69941,
+      1.2127981
+    ],
+    "botania:manaweave_boots": [
+      70722,
+      0.0321
+    ],
+    "botania:terrasteel_boots": [
+      69062,
+      2.3585079
+    ],
+    "butchery:dragon_scale_armor_boots": [
+      66328,
+      9.015624
+    ],
+    "butchery:evoker_robes_boots": [
+      70781,
+      0.026199998
+    ],
+    "butchery:fur_suit_boots": [
+      69993,
+      1.1460843
+    ],
+    "butchery:pillager_armor_boots": [
+      70662,
+      0.038099997
+    ],
+    "butchery:turtle_shell_armor_boots": [
+      70336,
+      0.7026087
+    ],
+    "butchery:vindicatorarmor_boots": [
+      70093,
+      1.0178697
+    ],
+    "cataclysm:cursium_boots": [
+      67397,
+      6.789111
+    ],
+    "cataclysm:ignitium_boots": [
+      66187,
+      9.309818
+    ],
+    "complicated_bees:apiarist_boots": [
+      70737,
+      0.030599998
+    ],
+    "create:cardboard_boots": [
+      70826,
+      0.021699999
+    ],
+    "create:copper_diving_boots": [
+      70469,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      69408,
+      1.9030677
+    ],
+    "cyclic:crystal_boots": [
+      64668,
+      12.493897
+    ],
+    "cyclic:emerald_boots": [
+      68289,
+      4.9131355
+    ],
+    "deeperdarker:resonarium_boots": [
+      69487,
+      1.7998894
+    ],
+    "deeperdarker:warden_boots": [
+      68202,
+      5.0993676
+    ],
+    "electrodynamics:combatarmorboots": [
+      48603,
+      47.437836
+    ],
+    "electrodynamics:compositearmorboots": [
+      48603,
+      47.437836
+    ],
+    "electrodynamics:hydraulicboots": [
+      70926,
+      0.0117
+    ],
+    "electrodynamics:rubberboots": [
+      16941,
+      119.43322
+    ],
+    "embers:ashen_boots": [
+      69524,
+      1.7516724
+    ],
+    "experienceobelisk:cognitive_boots": [
+      69538,
+      1.7334458
+    ],
+    "forbidden_arcanus:draco_arcanus_boots": [
+      66877,
+      7.871759
+    ],
+    "forbidden_arcanus:mortem_boots": [
+      70249,
+      0.8169267
+    ],
+    "forbidden_arcanus:tyr_boots": [
+      64517,
+      12.8119755
+    ],
+    "forestry:apiarist_boots": [
+      70751,
+      0.029199997
+    ],
+    "hexerei:witch_boots": [
+      69364,
+      1.9606676
+    ],
+    "iguanatweaksreborn:copper_boots": [
+      70531,
+      0.36301193
+    ],
+    "immersiveengineering:armor_faraday_boots": [
+      70840,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_boots": [
+      69690,
+      1.5361866
+    ],
+    "industrial_core:nexite_boots": [
+      67299,
+      6.9932466
+    ],
+    "industrial_core:plasma_boots": [
+      66384,
+      8.898836
+    ],
+    "industrialupgrade:armour/adv_nano_boots": [
+      68857,
+      3.5938609
+    ],
+    "industrialupgrade:armour/bronze_boots": [
+      70090,
+      1.0217173
+    ],
+    "industrialupgrade:armour/hazmatboosts": [
+      70491,
+      0.47231403
+    ],
+    "industrialupgrade:armour/nano_boots": [
+      68857,
+      3.5938609
+    ],
+    "industrialupgrade:armour/quantum_boots": [
+      68857,
+      3.5938609
+    ],
+    "industrialupgrade:armour/rubber_boots": [
+      70491,
+      0.47231403
+    ],
+    "industrialupgrade:armour/ruby_boots": [
+      70000,
+      1.1371077
+    ],
+    "industrialupgrade:armour/sapphire_boots": [
+      69946,
+      1.2063804
+    ],
+    "industrialupgrade:armour/spectral_boots": [
+      68857,
+      3.5938609
+    ],
+    "industrialupgrade:armour/topaz_boots": [
+      69892,
+      1.2757316
+    ],
+    "industrialupgrade:armour/volcano_rubber_boots": [
+      70491,
+      0.47231403
+    ],
+    "irons_spellbooks:archevoker_boots": [
+      69102,
+      2.3055708
+    ],
+    "irons_spellbooks:cryomancer_boots": [
+      69102,
+      2.3055708
+    ],
+    "irons_spellbooks:cultist_boots": [
+      69102,
+      2.3055708
+    ],
+    "irons_spellbooks:electromancer_boots": [
+      69102,
+      2.3055708
+    ],
+    "irons_spellbooks:netherite_mage_boots": [
+      69089,
+      2.3227675
+    ],
+    "irons_spellbooks:plagued_boots": [
+      69102,
+      2.3055708
+    ],
+    "irons_spellbooks:priest_boots": [
+      69102,
+      2.3055708
+    ],
+    "irons_spellbooks:pumpkin_boots": [
+      69137,
+      2.2593102
+    ],
+    "irons_spellbooks:pyromancer_boots": [
+      69102,
+      2.3055708
+    ],
+    "irons_spellbooks:shadowwalker_boots": [
+      69102,
+      2.3055708
+    ],
+    "irons_spellbooks:speed_boots": [
+      69088,
+      2.3240905
+    ],
+    "irons_spellbooks:wandering_magician_boots": [
+      69998,
+      1.1396724
+    ],
+    "irons_spellbooks:wizard_boots": [
+      69102,
+      2.3055708
+    ],
+    "malum:malignant_stronghold_boots": [
+      68998,
+      3.0718496
+    ],
+    "malum:soul_hunter_boots": [
+      70451,
+      0.540316
+    ],
+    "malum:soul_stained_steel_boots": [
+      69495,
+      1.7894584
+    ],
+    "mekanism:free_runners": [
+      70413,
+      0.59678036
+    ],
+    "mekanism:free_runners_armored": [
+      70377,
+      0.64716274
+    ],
+    "mekanism:hazmat_boots": [
+      70413,
+      0.59678036
+    ],
+    "mekanism:mekasuit_boots": [
+      68858,
+      3.5910394
+    ],
+    "minecolonies:pirate_boots": [
+      69887,
+      1.2821578
+    ],
+    "minecolonies:pirate_shoes": [
+      69309,
+      2.0328007
+    ],
+    "minecolonies:plate_armor_boots": [
+      69139,
+      2.2566686
+    ],
+    "minecraft:chainmail_boots": [
+      70451,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      69535,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      70517,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      70203,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      70799,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      69408,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_sandals": [
+      69611,
+      1.6385665
+    ],
+    "mysticalagriculture:awakened_supremium_boots": [
+      63473,
+      15.018697
+    ],
+    "mysticalagriculture:imperium_boots": [
+      67198,
+      7.203547
+    ],
+    "mysticalagriculture:inferium_boots": [
+      68979,
+      3.1730883
+    ],
+    "mysticalagriculture:prudentium_boots": [
+      68497,
+      4.4598856
+    ],
+    "mysticalagriculture:supremium_boots": [
+      65908,
+      9.892573
+    ],
+    "mysticalagriculture:tertium_boots": [
+      67779,
+      5.991608
+    ],
+    "naturesaura:depth_shoes": [
+      68100,
+      5.316139
+    ],
+    "naturesaura:infused_iron_shoes": [
+      69930,
+      1.2269194
+    ],
+    "naturesaura:sky_shoes": [
+      69148,
+      2.2447827
+    ],
+    "nuclearcraft:hazmat_boots": [
+      70258,
+      0.8052262
+    ],
+    "nuclearcraft:hev_boots": [
+      66795,
+      8.042485
+    ],
+    "nuclearcraft:tough_boots": [
+      68824,
+      3.6843565
+    ],
+    "nuclearscience:hazmatboots": [
+      56787,
+      29.407818
+    ],
+    "nuclearscience:reinforcedhazmatboots": [
+      19,
+      158.78705
+    ],
+    "pneumaticcraft:compressed_iron_boots": [
+      69889,
+      1.2795873
+    ],
+    "pneumaticcraft:pneumatic_boots": [
+      69819,
+      1.3696512
+    ],
+    "primalextinction:bone_armor_boots": [
+      70237,
+      0.83249766
+    ],
+    "primalextinction:fiberclotharmor_boots": [
+      70473,
+      0.5046589
+    ],
+    "primalextinction:tanned_leather_armor_boots": [
+      70617,
+      0.0426
+    ],
+    "projecte:dm_boots": [
+      68866,
+      3.5682683
+    ],
+    "projecte:gem_boots": [
+      68711,
+      3.969004
+    ],
+    "projecte:rm_boots": [
+      68763,
+      3.8416624
+    ],
+    "railcraft:steel_boots": [
+      69928,
+      1.2294873
+    ],
+    "rootsclassic:sylvan_boots": [
+      70185,
+      0.89967334
+    ],
+    "rootsclassic:wildwood_boots": [
+      69864,
+      1.3117309
+    ],
+    "tconstruct:plate_boots": [
+      70413,
+      0.59678036
+    ],
+    "tconstruct:slime_boots": [
+      70413,
+      0.59678036
+    ],
+    "tconstruct:travelers_boots": [
+      70413,
+      0.59678036
+    ],
+    "tfmg:steel_boots": [
+      69044,
+      2.3823528
+    ],
+    "thermal:beekeeper_boots": [
+      70744,
+      0.0299
+    ],
+    "thermal:diving_boots": [
+      70296,
+      0.7555575
+    ],
+    "thermal:hazmat_boots": [
+      70357,
+      0.67440087
+    ],
+    "toughasnails:leaf_boots": [
+      70967,
+      0.0075999997
+    ],
+    "toughasnails:wool_boots": [
+      70967,
+      0.0075999997
+    ],
+    "twilightforest:arctic_boots": [
+      69905,
+      1.2590272
+    ],
+    "twilightforest:fiery_boots": [
+      68513,
+      4.4243336
+    ],
+    "twilightforest:ironwood_boots": [
+      69804,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_boots": [
+      69263,
+      2.0932417
+    ],
+    "twilightforest:steeleaf_boots": [
+      69328,
+      2.0078652
+    ],
+    "twilightforest:yeti_boots": [
+      69215,
+      2.1564183
+    ],
+    "undergarden:cloggrum_boots": [
+      70069,
+      1.0486451
+    ],
+    "undergarden:froststeel_boots": [
+      69426,
+      1.8795317
+    ],
+    "undergarden:utherium_boots": [
+      69155,
+      2.235541
+    ]
+  },
+  "LEGS": {
+    "alexscaves:diving_leggings": [
+      60653,
+      1.1537791
+    ],
+    "alexscaves:gingerbread_leggings": [
+      60922,
+      0.8078281
+    ],
+    "alexscaves:hazmat_leggings": [
+      60854,
+      0.89580816
+    ],
+    "alexscaves:primordial_pants": [
+      60944,
+      0.7791448
+    ],
+    "alexsmobs:centipede_leggings": [
+      59403,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      60638,
+      1.173019
+    ],
+    "allthemodium:allthemodium_leggings": [
+      57118,
+      8.75706
+    ],
+    "allthemodium:unobtainium_leggings": [
+      46058,
+      32.45419
+    ],
+    "allthemodium:vibranium_leggings": [
+      52908,
+      17.636703
+    ],
+    "aquaculture:neptunium_leggings": [
+      59790,
+      2.2764862
+    ],
+    "ars_nouveau:arcanist_leggings": [
+      60484,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_leggings": [
+      59724,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_leggings": [
+      60900,
+      0.8363856
+    ],
+    "bloodmagic:livingleggings": [
+      60533,
+      1.3078723
+    ],
+    "botania:elementium_leggings": [
+      60593,
+      1.2307714
+    ],
+    "botania:manasteel_leggings": [
+      60607,
+      1.2127981
+    ],
+    "botania:manaweave_leggings": [
+      61388,
+      0.0321
+    ],
+    "botania:terrasteel_leggings": [
+      59728,
+      2.3585079
+    ],
+    "butchery:dragon_scale_armor_leggings": [
+      56994,
+      9.015624
+    ],
+    "butchery:evoker_robes_leggings": [
+      61447,
+      0.026199998
+    ],
+    "butchery:fur_suit_leggings": [
+      60659,
+      1.1460843
+    ],
+    "butchery:pillager_armor_leggings": [
+      61328,
+      0.038099997
+    ],
+    "butchery:turtle_shell_armor_leggings": [
+      61002,
+      0.7026087
+    ],
+    "butchery:vindicatorarmor_leggings": [
+      60759,
+      1.0178697
+    ],
+    "cataclysm:cursium_leggings": [
+      58063,
+      6.789111
+    ],
+    "cataclysm:ignitium_leggings": [
+      56853,
+      9.309818
+    ],
+    "complicated_bees:apiarist_leggings": [
+      61401,
+      0.030799998
+    ],
+    "create:cardboard_leggings": [
+      61492,
+      0.021699999
+    ],
+    "cyclic:crystal_leggings": [
+      55334,
+      12.493897
+    ],
+    "cyclic:emerald_leggings": [
+      58955,
+      4.9131355
+    ],
+    "deeperdarker:resonarium_leggings": [
+      60153,
+      1.7998894
+    ],
+    "deeperdarker:warden_leggings": [
+      58868,
+      5.0993676
+    ],
+    "electrodynamics:combatarmorleggings": [
+      39698,
+      46.48425
+    ],
+    "electrodynamics:compositearmorleggings": [
+      39698,
+      46.48425
+    ],
+    "electrodynamics:servoleggings": [
+      61599,
+      0.011
+    ],
+    "embers:ashen_leggings": [
+      60190,
+      1.7516724
+    ],
+    "experienceobelisk:cognitive_leggings": [
+      60166,
+      1.7829406
+    ],
+    "forbidden_arcanus:draco_arcanus_leggings": [
+      57543,
+      7.871759
+    ],
+    "forbidden_arcanus:mortem_leggings": [
+      60915,
+      0.8169267
+    ],
+    "forbidden_arcanus:tyr_leggings": [
+      55183,
+      12.8119755
+    ],
+    "forestry:apiarist_legs": [
+      61417,
+      0.029199997
+    ],
+    "iguanatweaksreborn:copper_leggings": [
+      61197,
+      0.36301193
+    ],
+    "immersiveengineering:armor_faraday_leggings": [
+      61506,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_leggings": [
+      60356,
+      1.5361866
+    ],
+    "industrial_core:nexite_leggings": [
+      57965,
+      6.9932466
+    ],
+    "industrial_core:plasma_leggings": [
+      57050,
+      8.898836
+    ],
+    "industrialupgrade:armour/adv_nano_leggings": [
+      59523,
+      3.5938609
+    ],
+    "industrialupgrade:armour/bronze_leggings": [
+      60757,
+      1.0204347
+    ],
+    "industrialupgrade:armour/hazmat_leggings": [
+      61161,
+      0.4645051
+    ],
+    "industrialupgrade:armour/hazmatleggins": [
+      61161,
+      0.4645051
+    ],
+    "industrialupgrade:armour/nano_leggings": [
+      59523,
+      3.5938609
+    ],
+    "industrialupgrade:armour/quantum_leggings": [
+      59523,
+      3.5938609
+    ],
+    "industrialupgrade:armour/ruby_leggings": [
+      60698,
+      1.0960796
+    ],
+    "industrialupgrade:armour/sapphire_leggings": [
+      60652,
+      1.1550616
+    ],
+    "industrialupgrade:armour/spectral_leggings": [
+      59523,
+      3.5938609
+    ],
+    "industrialupgrade:armour/topaz_leggings": [
+      60605,
+      1.2153653
+    ],
+    "industrialupgrade:armour/volcano_hazmat_leggings": [
+      61161,
+      0.4645051
+    ],
+    "irons_spellbooks:archevoker_leggings": [
+      59768,
+      2.3055708
+    ],
+    "irons_spellbooks:cryomancer_leggings": [
+      59768,
+      2.3055708
+    ],
+    "irons_spellbooks:cultist_leggings": [
+      59768,
+      2.3055708
+    ],
+    "irons_spellbooks:electromancer_leggings": [
+      59768,
+      2.3055708
+    ],
+    "irons_spellbooks:netherite_mage_leggings": [
+      59755,
+      2.3227675
+    ],
+    "irons_spellbooks:plagued_leggings": [
+      59768,
+      2.3055708
+    ],
+    "irons_spellbooks:priest_leggings": [
+      59768,
+      2.3055708
+    ],
+    "irons_spellbooks:pumpkin_leggings": [
+      59803,
+      2.2593102
+    ],
+    "irons_spellbooks:pyromancer_leggings": [
+      59768,
+      2.3055708
+    ],
+    "irons_spellbooks:shadowwalker_leggings": [
+      59768,
+      2.3055708
+    ],
+    "irons_spellbooks:wandering_magician_leggings": [
+      60664,
+      1.1396724
+    ],
+    "irons_spellbooks:wizard_leggings": [
+      59768,
+      2.3055708
+    ],
+    "malum:malignant_stronghold_leggings": [
+      59664,
+      3.0718496
+    ],
+    "malum:soul_hunter_leggings": [
+      61117,
+      0.540316
+    ],
+    "malum:soul_stained_steel_leggings": [
+      60161,
+      1.7894584
+    ],
+    "mekanism:hazmat_pants": [
+      61079,
+      0.59678036
+    ],
+    "mekanism:mekasuit_pants": [
+      59524,
+      3.5910394
+    ],
+    "minecolonies:pirate_leggins": [
+      60553,
+      1.2821578
+    ],
+    "minecolonies:pirate_legs": [
+      59975,
+      2.0328007
+    ],
+    "minecolonies:plate_armor_legs": [
+      59805,
+      2.2566686
+    ],
+    "minecraft:chainmail_leggings": [
+      61117,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      60201,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      61183,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      60869,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      61465,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      60074,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_belt": [
+      60277,
+      1.6385665
+    ],
+    "mysticalagriculture:awakened_supremium_leggings": [
+      53777,
+      15.786841
+    ],
+    "mysticalagriculture:imperium_leggings": [
+      57713,
+      7.517878
+    ],
+    "mysticalagriculture:inferium_leggings": [
+      59601,
+      3.3510325
+    ],
+    "mysticalagriculture:prudentium_leggings": [
+      59098,
+      4.603116
+    ],
+    "mysticalagriculture:supremium_leggings": [
+      56272,
+      10.52438
+    ],
+    "mysticalagriculture:tertium_leggings": [
+      58358,
+      6.173617
+    ],
+    "naturesaura:depth_pants": [
+      58766,
+      5.316139
+    ],
+    "naturesaura:infused_iron_pants": [
+      60596,
+      1.2269194
+    ],
+    "naturesaura:sky_pants": [
+      59814,
+      2.2447827
+    ],
+    "nuclearcraft:hazmat_pants": [
+      60942,
+      0.7817585
+    ],
+    "nuclearcraft:hev_pants": [
+      57916,
+      7.095282
+    ],
+    "nuclearcraft:tough_pants": [
+      59688,
+      2.88177
+    ],
+    "nuclearscience:hazmatlegs": [
+      49320,
+      25.35175
+    ],
+    "nuclearscience:reinforcedhazmatlegs": [
+      19,
+      137.02292
+    ],
+    "pneumaticcraft:compressed_iron_leggings": [
+      60555,
+      1.2795873
+    ],
+    "pneumaticcraft:pneumatic_leggings": [
+      60485,
+      1.3696512
+    ],
+    "primalextinction:bone_armor_leggings": [
+      60903,
+      0.83249766
+    ],
+    "primalextinction:fiberclotharmor_leggings": [
+      61139,
+      0.5046589
+    ],
+    "primalextinction:tanned_leather_armor_leggings": [
+      61283,
+      0.0426
+    ],
+    "projecte:dm_leggings": [
+      59532,
+      3.5682683
+    ],
+    "projecte:gem_leggings": [
+      59377,
+      3.969004
+    ],
+    "projecte:rm_leggings": [
+      59429,
+      3.8416624
+    ],
+    "railcraft:overalls": [
+      61403,
+      0.030599998
+    ],
+    "railcraft:steel_leggings": [
+      60594,
+      1.2294873
+    ],
+    "rootsclassic:sylvan_tunic": [
+      60851,
+      0.89967334
+    ],
+    "rootsclassic:wildwood_leggings": [
+      60530,
+      1.3117309
+    ],
+    "tconstruct:plate_leggings": [
+      61079,
+      0.59678036
+    ],
+    "tconstruct:slime_leggings": [
+      61079,
+      0.59678036
+    ],
+    "tconstruct:travelers_leggings": [
+      61079,
+      0.59678036
+    ],
+    "tfmg:steel_leggings": [
+      59710,
+      2.3823528
+    ],
+    "thermal:beekeeper_leggings": [
+      61404,
+      0.030499998
+    ],
+    "thermal:diving_leggings": [
+      60944,
+      0.7791448
+    ],
+    "thermal:hazmat_leggings": [
+      61014,
+      0.6865328
+    ],
+    "totemic:jingle_dress": [
+      61535,
+      0.0174
+    ],
+    "toughasnails:leaf_leggings": [
+      61633,
+      0.0075999997
+    ],
+    "toughasnails:wool_leggings": [
+      61633,
+      0.0075999997
+    ],
+    "twilightforest:arctic_leggings": [
+      60571,
+      1.2590272
+    ],
+    "twilightforest:fiery_leggings": [
+      59179,
+      4.4243336
+    ],
+    "twilightforest:ironwood_leggings": [
+      60470,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_leggings": [
+      59929,
+      2.0932417
+    ],
+    "twilightforest:naga_leggings": [
+      60191,
+      1.7503701
+    ],
+    "twilightforest:steeleaf_leggings": [
+      59994,
+      2.0078652
+    ],
+    "twilightforest:yeti_leggings": [
+      59881,
+      2.1564183
+    ],
+    "undergarden:ancient_leggings": [
+      60666,
+      1.1371077
+    ],
+    "undergarden:cloggrum_leggings": [
+      60735,
+      1.0486451
+    ],
+    "undergarden:froststeel_leggings": [
+      60092,
+      1.8795317
+    ],
+    "undergarden:utherium_leggings": [
+      59821,
+      2.235541
+    ]
+  },
+  "CHEST": {
+    "alexscaves:cloak_of_darkness": [
+      57215,
+      0.6972618
+    ],
+    "alexscaves:diving_chestplate": [
+      56878,
+      1.1332608
+    ],
+    "alexscaves:gingerbread_chestplate": [
+      57139,
+      0.7974141
+    ],
+    "alexscaves:hazmat_chestplate": [
+      57080,
+      0.87388456
+    ],
+    "alexscaves:primordial_tunic": [
+      57170,
+      0.7568712
+    ],
+    "alexsmobs:crocodile_chestplate": [
+      56636,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      56715,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      57063,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      57286,
+      0.59963983
+    ],
+    "allthemodium:allthemodium_chestplate": [
+      53397,
+      8.611157
+    ],
+    "allthemodium:unobtainium_chestplate": [
+      42429,
+      32.09977
+    ],
+    "allthemodium:vibranium_chestplate": [
+      49231,
+      17.39357
+    ],
+    "aquaculture:neptunium_chestplate": [
+      55999,
+      2.2764862
+    ],
+    "ars_nouveau:arcanist_robes": [
+      56693,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_robes": [
+      55933,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_robes": [
+      57109,
+      0.8363856
+    ],
+    "bloodmagic:livingplate": [
+      56742,
+      1.3078723
+    ],
+    "botania:elementium_chestplate": [
+      56802,
+      1.2307714
+    ],
+    "botania:manasteel_chestplate": [
+      56816,
+      1.2127981
+    ],
+    "botania:manaweave_chestplate": [
+      57597,
+      0.0321
+    ],
+    "botania:terrasteel_chestplate": [
+      55937,
+      2.3585079
+    ],
+    "butchery:bloody_butchers_apron_chestplate": [
+      56956,
+      1.0332587
+    ],
+    "butchery:butchers_apron_chestplate": [
+      57567,
+      0.035099998
+    ],
+    "butchery:dragon_scale_armor_chestplate": [
+      53203,
+      9.015624
+    ],
+    "butchery:evoker_robes_chestplate": [
+      57656,
+      0.026199998
+    ],
+    "butchery:fur_suit_chestplate": [
+      56868,
+      1.1460843
+    ],
+    "butchery:piglin_brute_armor_chestplate": [
+      56973,
+      1.0114565
+    ],
+    "butchery:pillager_armor_chestplate": [
+      57537,
+      0.038099997
+    ],
+    "butchery:stray_necklace_chestplate": [
+      57248,
+      0.6526449
+    ],
+    "butchery:turtle_shell_armor_chestplate": [
+      57211,
+      0.7026087
+    ],
+    "butchery:vindicatorarmor_chestplate": [
+      56968,
+      1.0178697
+    ],
+    "butchery:witches_clothes_chestplate": [
+      57656,
+      0.026199998
+    ],
+    "cataclysm:bloom_stone_pauldrons": [
+      55883,
+      3.0056863
+    ],
+    "cataclysm:bone_reptile_chestplate": [
+      54103,
+      7.1410875
+    ],
+    "cataclysm:cursium_chestplate": [
+      54272,
+      6.789111
+    ],
+    "cataclysm:ignitium_chestplate": [
+      53062,
+      9.309818
+    ],
+    "cataclysm:ignitium_elytra_chestplate": [
+      53062,
+      9.309818
+    ],
+    "complicated_bees:apiarist_chestplate": [
+      57612,
+      0.030599998
+    ],
+    "create:cardboard_chestplate": [
+      57701,
+      0.021699999
+    ],
+    "create:copper_backtank": [
+      57344,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      56283,
+      1.9030677
+    ],
+    "creategoggles:chainmail_backtank": [
+      57326,
+      0.540316
+    ],
+    "creategoggles:diamond_backtank": [
+      56410,
+      1.7373508
+    ],
+    "creategoggles:golden_backtank": [
+      57392,
+      0.4136078
+    ],
+    "creategoggles:iron_backtank": [
+      57078,
+      0.8764657
+    ],
+    "creategoggles:leather_backtank": [
+      57674,
+      0.0244
+    ],
+    "cyclic:crystal_chestplate": [
+      51543,
+      12.493897
+    ],
+    "cyclic:emerald_chestplate": [
+      55164,
+      4.9131355
+    ],
+    "deeperdarker:resonarium_chestplate": [
+      56362,
+      1.7998894
+    ],
+    "deeperdarker:warden_chestplate": [
+      55077,
+      5.0993676
+    ],
+    "draconicevolution:chaotic_chestpiece": [
+      56035,
+      2.228941
+    ],
+    "draconicevolution:draconic_chestpiece": [
+      56035,
+      2.228941
+    ],
+    "draconicevolution:wyvern_chestpiece": [
+      56035,
+      2.228941
+    ],
+    "electrodynamics:combatarmorchestplate": [
+      36081,
+      46.097717
+    ],
+    "electrodynamics:compositearmorchestplate": [
+      36081,
+      46.097717
+    ],
+    "electrodynamics:jetpack": [
+      57811,
+      0.0106999995
+    ],
+    "embers:ashen_cloak": [
+      56399,
+      1.7516724
+    ],
+    "experienceobelisk:cognitive_chestplate": [
+      56364,
+      1.7972815
+    ],
+    "forbidden_arcanus:draco_arcanus_chestplate": [
+      53752,
+      7.871759
+    ],
+    "forbidden_arcanus:mortem_chestplate": [
+      57124,
+      0.8169267
+    ],
+    "forbidden_arcanus:tyr_chestplate": [
+      51392,
+      12.8119755
+    ],
+    "forestry:apiarist_chest": [
+      57626,
+      0.029199997
+    ],
+    "hexerei:witch_chestplate": [
+      56239,
+      1.9606676
+    ],
+    "iguanatweaksreborn:copper_chestplate": [
+      57406,
+      0.36301193
+    ],
+    "immersiveengineering:armor_faraday_chestplate": [
+      57715,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_chestplate": [
+      56565,
+      1.5361866
+    ],
+    "industrial_core:nexite_chestplate": [
+      54174,
+      6.9932466
+    ],
+    "industrial_core:plasma_chestplate": [
+      53259,
+      8.898836
+    ],
+    "industrialupgrade:armour/adv_lappack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/adv_nano_chestplate": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/advanced_batpack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/advjetpack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/batpack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/bronze_chestplate": [
+      56967,
+      1.0191523
+    ],
+    "industrialupgrade:armour/hazmat_chestplate": [
+      57371,
+      0.46250585
+    ],
+    "industrialupgrade:armour/hazmatchest": [
+      57371,
+      0.46250585
+    ],
+    "industrialupgrade:armour/imp_lappack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/impjetpack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/jetpack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/lappack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/nano_chestplate": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/per_lappack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/perjetpack": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/quantum_chestplate": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/ruby_chestplate": [
+      56921,
+      1.0781318
+    ],
+    "industrialupgrade:armour/sapphire_chestplate": [
+      56877,
+      1.1345432
+    ],
+    "industrialupgrade:armour/spectral_chestplate": [
+      55732,
+      3.5938609
+    ],
+    "industrialupgrade:armour/topaz_chestplate": [
+      56833,
+      1.1909808
+    ],
+    "industrialupgrade:armour/volcano_hazmat_chestplate": [
+      57371,
+      0.46250585
+    ],
+    "irons_spellbooks:archevoker_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "irons_spellbooks:cryomancer_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "irons_spellbooks:cultist_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "irons_spellbooks:electromancer_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "irons_spellbooks:infernal_sorcerer_chestplate": [
+      55963,
+      2.3240905
+    ],
+    "irons_spellbooks:netherite_mage_chestplate": [
+      55964,
+      2.3227675
+    ],
+    "irons_spellbooks:paladin_chestplate": [
+      55534,
+      4.092196
+    ],
+    "irons_spellbooks:plagued_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "irons_spellbooks:priest_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "irons_spellbooks:pumpkin_chestplate": [
+      56012,
+      2.2593102
+    ],
+    "irons_spellbooks:pyromancer_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "irons_spellbooks:shadowwalker_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "irons_spellbooks:wandering_magician_chestplate": [
+      56873,
+      1.1396724
+    ],
+    "irons_spellbooks:wizard_chestplate": [
+      55977,
+      2.3055708
+    ],
+    "malum:malignant_stronghold_chestplate": [
+      55873,
+      3.0718496
+    ],
+    "malum:soul_hunter_robe": [
+      57326,
+      0.540316
+    ],
+    "malum:soul_stained_steel_chestplate": [
+      56370,
+      1.7894584
+    ],
+    "mekanism:hazmat_gown": [
+      57288,
+      0.59678036
+    ],
+    "mekanism:jetpack": [
+      57288,
+      0.59678036
+    ],
+    "mekanism:jetpack_armored": [
+      57054,
+      0.9074007
+    ],
+    "mekanism:mekasuit_bodyarmor": [
+      55733,
+      3.5910394
+    ],
+    "mekanism:scuba_tank": [
+      57288,
+      0.59678036
+    ],
+    "minecolonies:pirate_chest": [
+      56184,
+      2.0328007
+    ],
+    "minecolonies:pirate_top": [
+      56762,
+      1.2821578
+    ],
+    "minecolonies:plate_armor_chest": [
+      56014,
+      2.2566686
+    ],
+    "minecraft:chainmail_chestplate": [
+      57326,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      56410,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      57392,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      57078,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      57674,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      56283,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_robe": [
+      56486,
+      1.6385665
+    ],
+    "mysticalagriculture:awakened_supremium_chestplate": [
+      49986,
+      15.786841
+    ],
+    "mysticalagriculture:imperium_chestplate": [
+      53922,
+      7.517878
+    ],
+    "mysticalagriculture:inferium_chestplate": [
+      55810,
+      3.3510325
+    ],
+    "mysticalagriculture:prudentium_chestplate": [
+      55307,
+      4.603116
+    ],
+    "mysticalagriculture:supremium_chestplate": [
+      52481,
+      10.52438
+    ],
+    "mysticalagriculture:tertium_chestplate": [
+      54567,
+      6.173617
+    ],
+    "naturesaura:depth_chest": [
+      54975,
+      5.316139
+    ],
+    "naturesaura:infused_iron_chest": [
+      56805,
+      1.2269194
+    ],
+    "naturesaura:sky_chest": [
+      56023,
+      2.2447827
+    ],
+    "nuclearcraft:hazmat_chest": [
+      57158,
+      0.7726047
+    ],
+    "nuclearcraft:hev_chest": [
+      54309,
+      6.71201
+    ],
+    "nuclearcraft:tough_chest": [
+      55977,
+      2.3055708
+    ],
+    "nuclearscience:hazmatplate": [
+      46287,
+      23.712526
+    ],
+    "nuclearscience:reinforcedhazmatplate": [
+      19,
+      128.22261
+    ],
+    "pneumaticcraft:compressed_iron_chestplate": [
+      56764,
+      1.2795873
+    ],
+    "pneumaticcraft:pneumatic_chestplate": [
+      56694,
+      1.3696512
+    ],
+    "powergrid:portable_battery": [
+      56962,
+      1.0255646
+    ],
+    "primalextinction:bone_armor_chestplate": [
+      57112,
+      0.83249766
+    ],
+    "primalextinction:fiberclotharmor_chestplate": [
+      57348,
+      0.5046589
+    ],
+    "primalextinction:tanned_leather_armor_chestplate": [
+      57492,
+      0.0426
+    ],
+    "projecte:dm_chestplate": [
+      55741,
+      3.5682683
+    ],
+    "projecte:gem_chestplate": [
+      55586,
+      3.969004
+    ],
+    "projecte:rm_chestplate": [
+      55638,
+      3.8416624
+    ],
+    "quark:backpack": [
+      57674,
+      0.0244
+    ],
+    "railcraft:steel_chestplate": [
+      56803,
+      1.2294873
+    ],
+    "rootsclassic:sylvan_robe": [
+      57060,
+      0.89967334
+    ],
+    "rootsclassic:wildwood_plate": [
+      56739,
+      1.3117309
+    ],
+    "tconstruct:plate_chestplate": [
+      57288,
+      0.59678036
+    ],
+    "tconstruct:slime_wings": [
+      57288,
+      0.59678036
+    ],
+    "tconstruct:slimy_chestplate": [
+      57288,
+      0.59678036
+    ],
+    "tconstruct:travelers_chestplate": [
+      57288,
+      0.59678036
+    ],
+    "tfmg:steel_chestplate": [
+      55919,
+      2.3823528
+    ],
+    "thermal:beekeeper_chestplate": [
+      57616,
+      0.030199999
+    ],
+    "thermal:diving_chestplate": [
+      57164,
+      0.7647448
+    ],
+    "thermal:hazmat_chestplate": [
+      57228,
+      0.67980134
+    ],
+    "toughasnails:leaf_chestplate": [
+      57842,
+      0.0075999997
+    ],
+    "toughasnails:wool_chestplate": [
+      57842,
+      0.0075999997
+    ],
+    "twilightforest:arctic_chestplate": [
+      56780,
+      1.2590272
+    ],
+    "twilightforest:fiery_chestplate": [
+      55388,
+      4.4243336
+    ],
+    "twilightforest:ironwood_chestplate": [
+      56679,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_chestplate": [
+      56138,
+      2.0932417
+    ],
+    "twilightforest:naga_chestplate": [
+      56400,
+      1.7503701
+    ],
+    "twilightforest:phantom_chestplate": [
+      56061,
+      2.1946402
+    ],
+    "twilightforest:steeleaf_chestplate": [
+      56203,
+      2.0078652
+    ],
+    "twilightforest:yeti_chestplate": [
+      56090,
+      2.1564183
+    ],
+    "undergarden:ancient_chestplate": [
+      56875,
+      1.1371077
+    ],
+    "undergarden:cloggrum_chestplate": [
+      56944,
+      1.0486451
+    ],
+    "undergarden:froststeel_chestplate": [
+      56301,
+      1.8795317
+    ],
+    "undergarden:masticated_chestplate": [
+      55470,
+      4.239789
+    ],
+    "undergarden:utherium_chestplate": [
+      56030,
+      2.235541
+    ],
+    "xycraft_machines:hover_pack": [
+      57130,
+      0.80912864
+    ]
+  },
+  "HEAD": {
+    "alexscaves:diving_helmet": [
+      82699,
+      1.173019
+    ],
+    "alexscaves:gingerbread_helmet": [
+      82976,
+      0.8169267
+    ],
+    "alexscaves:hazmat_mask": [
+      82901,
+      0.91383743
+    ],
+    "alexscaves:hood_of_darkness": [
+      83043,
+      0.7291897
+    ],
+    "alexscaves:primordial_helmet": [
+      82991,
+      0.7974141
+    ],
+    "alexsmobs:fedora": [
+      83331,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      83025,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      83118,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      83016,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      83331,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      83302,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      82766,
+      1.0871058
+    ],
+    "allthemodium:allthemodium_helmet": [
+      79447,
+      8.198666
+    ],
+    "allthemodium:unobtainium_helmet": [
+      68746,
+      31.08339
+    ],
+    "allthemodium:vibranium_helmet": [
+      75411,
+      16.69479
+    ],
+    "aquaculture:neptunium_helmet": [
+      81851,
+      2.2764862
+    ],
+    "ars_nouveau:arcanist_hood": [
+      82545,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_hood": [
+      81785,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_hood": [
+      82961,
+      0.8363856
+    ],
+    "bloodmagic:livinghelmet": [
+      82594,
+      1.3078723
+    ],
+    "botania:elementium_helmet": [
+      82654,
+      1.2307714
+    ],
+    "botania:manasteel_helmet": [
+      82668,
+      1.2127981
+    ],
+    "botania:manaweave_helmet": [
+      83449,
+      0.0321
+    ],
+    "botania:terrasteel_helmet": [
+      81789,
+      2.3585079
+    ],
+    "butchery:dragon_scale_armor_helmet": [
+      79055,
+      9.015624
+    ],
+    "butchery:evoker_robes_helmet": [
+      83508,
+      0.026199998
+    ],
+    "butchery:fur_suit_helmet": [
+      82720,
+      1.1460843
+    ],
+    "butchery:pillager_armor_helmet": [
+      83389,
+      0.038099997
+    ],
+    "butchery:vindicatorarmor_helmet": [
+      82820,
+      1.0178697
+    ],
+    "butchery:witches_clothes_helmet": [
+      83508,
+      0.026199998
+    ],
+    "cataclysm:bone_reptile_helmet": [
+      79955,
+      7.1410875
+    ],
+    "cataclysm:cursium_helmet": [
+      80124,
+      6.789111
+    ],
+    "cataclysm:ignitium_helmet": [
+      78914,
+      9.309818
+    ],
+    "cataclysm:monstrous_helm": [
+      82135,
+      1.9030677
+    ],
+    "complicated_bees:apiarist_helmet": [
+      83464,
+      0.030599998
+    ],
+    "create:cardboard_helmet": [
+      83553,
+      0.021699999
+    ],
+    "create:copper_diving_helmet": [
+      83196,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      82135,
+      1.9030677
+    ],
+    "creategoggles:goggle_cardboard_helmet": [
+      83553,
+      0.021699999
+    ],
+    "creategoggles:goggle_chainmail_helmet": [
+      83178,
+      0.540316
+    ],
+    "creategoggles:goggle_diamond_helmet": [
+      82262,
+      1.7373508
+    ],
+    "creategoggles:goggle_diving_helmet": [
+      83196,
+      0.5113901
+    ],
+    "creategoggles:goggle_golden_helmet": [
+      83244,
+      0.4136078
+    ],
+    "creategoggles:goggle_iron_helmet": [
+      82930,
+      0.8764657
+    ],
+    "creategoggles:goggle_leather_helmet": [
+      83526,
+      0.0244
+    ],
+    "creategoggles:goggle_netherite_diving_helmet": [
+      82135,
+      1.9030677
+    ],
+    "creategoggles:goggle_netherite_helmet": [
+      82135,
+      1.9030677
+    ],
+    "creategoggles:goggle_turtle_helmet": [
+      82874,
+      0.948558
+    ],
+    "cyclic:crystal_helmet": [
+      77395,
+      12.493897
+    ],
+    "cyclic:emerald_helmet": [
+      81016,
+      4.9131355
+    ],
+    "cyclic:glowing_helmet": [
+      82715,
+      1.1524966
+    ],
+    "deeperdarker:resonarium_helmet": [
+      82214,
+      1.7998894
+    ],
+    "deeperdarker:warden_helmet": [
+      80929,
+      5.0993676
+    ],
+    "electrodynamics:combatarmorhelmet": [
+      60742,
+      48.746174
+    ],
+    "electrodynamics:compositearmorhelmet": [
+      60742,
+      48.746174
+    ],
+    "electrodynamics:nightvisiongoggles": [
+      83643,
+      0.0127
+    ],
+    "embers:ashen_goggles": [
+      82251,
+      1.7516724
+    ],
+    "experienceobelisk:cognitive_helmet": [
+      82221,
+      1.7907621
+    ],
+    "forbidden_arcanus:draco_arcanus_helmet": [
+      79604,
+      7.871759
+    ],
+    "forbidden_arcanus:mortem_helmet": [
+      82976,
+      0.8169267
+    ],
+    "forbidden_arcanus:tyr_helmet": [
+      77244,
+      12.8119755
+    ],
+    "forestry:apiarist_helmet": [
+      83478,
+      0.029199997
+    ],
+    "forestry:naturalist_helmet": [
+      83503,
+      0.026699997
+    ],
+    "hexerei:mushroom_witch_hat": [
+      82091,
+      1.9606676
+    ],
+    "hexerei:witch_helmet": [
+      82091,
+      1.9606676
+    ],
+    "iguanatweaksreborn:copper_helmet": [
+      83258,
+      0.36301193
+    ],
+    "immersiveengineering:armor_faraday_helmet": [
+      83567,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_helmet": [
+      82417,
+      1.5361866
+    ],
+    "industrial_core:nexite_helmet": [
+      80026,
+      6.9932466
+    ],
+    "industrial_core:plasma_helmet": [
+      79111,
+      8.898836
+    ],
+    "industrialupgrade:armour/adv_nano_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/advanced_solar_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/bronze_helmet": [
+      82816,
+      1.0229998
+    ],
+    "industrialupgrade:armour/hazmat_helmet": [
+      83212,
+      0.4835412
+    ],
+    "industrialupgrade:armour/hazmathelmet": [
+      83212,
+      0.4835412
+    ],
+    "industrialupgrade:armour/hybrid_solar_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/nano_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/nightvision_goggles": [
+      82262,
+      1.7373508
+    ],
+    "industrialupgrade:armour/quantum_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/ruby_helmet": [
+      82683,
+      1.1935471
+    ],
+    "industrialupgrade:armour/sapphire_helmet": [
+      82619,
+      1.2757316
+    ],
+    "industrialupgrade:armour/singular_solar_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/spectral_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/spectral_solar_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/topaz_helmet": [
+      82556,
+      1.3567728
+    ],
+    "industrialupgrade:armour/ultimate_solar_helmet": [
+      81584,
+      3.5938609
+    ],
+    "industrialupgrade:armour/volcano_hazmat_helmet": [
+      83212,
+      0.4835412
+    ],
+    "irons_spellbooks:archevoker_helmet": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:cryomancer_helmet": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:cultist_helmet": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:electromancer_helmet": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:gold_crown": [
+      81920,
+      2.1854107
+    ],
+    "irons_spellbooks:netherite_mage_helmet": [
+      81816,
+      2.3227675
+    ],
+    "irons_spellbooks:plagued_helmet": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:priest_helmet": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:pumpkin_helmet": [
+      81864,
+      2.2593102
+    ],
+    "irons_spellbooks:pyromancer_helmet": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:shadowwalker_helmet": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:tarnished_helmet": [
+      83520,
+      0.024999999
+    ],
+    "irons_spellbooks:wandering_magician_helmet": [
+      82725,
+      1.1396724
+    ],
+    "irons_spellbooks:wizard_hat": [
+      81829,
+      2.3055708
+    ],
+    "irons_spellbooks:wizard_helmet": [
+      81829,
+      2.3055708
+    ],
+    "malum:malignant_stronghold_helmet": [
+      81725,
+      3.0718496
+    ],
+    "malum:soul_hunter_cloak": [
+      83178,
+      0.540316
+    ],
+    "malum:soul_stained_steel_helmet": [
+      82222,
+      1.7894584
+    ],
+    "mekanism:hazmat_mask": [
+      83140,
+      0.59678036
+    ],
+    "mekanism:mekasuit_helmet": [
+      81585,
+      3.5910394
+    ],
+    "mekanism:scuba_mask": [
+      83140,
+      0.59678036
+    ],
+    "minecolonies:build_goggles": [
+      83668,
+      0.010199999
+    ],
+    "minecolonies:pirate_cap": [
+      82036,
+      2.0328007
+    ],
+    "minecolonies:pirate_hat": [
+      82614,
+      1.2821578
+    ],
+    "minecolonies:plate_armor_helmet": [
+      81866,
+      2.2566686
+    ],
+    "minecolonies:santa_hat": [
+      80598,
+      5.7987566
+    ],
+    "minecraft:chainmail_helmet": [
+      83178,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      82262,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      83244,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      82930,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      83526,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      82135,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      82874,
+      0.948558
+    ],
+    "mob_grinding_utils:monocle": [
+      83132,
+      0.6081686
+    ],
+    "mowziesmobs:geomancer_beads": [
+      82338,
+      1.6385665
+    ],
+    "mowziesmobs:sol_visage": [
+      83340,
+      0.042999998
+    ],
+    "mowziesmobs:umvuthana_mask_bliss": [
+      83614,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_faith": [
+      83614,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fear": [
+      83614,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fury": [
+      83614,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_misery": [
+      83614,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_rage": [
+      83614,
+      0.015599999
+    ],
+    "mowziesmobs:wrought_helmet": [
+      83344,
+      0.0426
+    ],
+    "mysticalagriculture:awakened_supremium_helmet": [
+      75410,
+      16.69692
+    ],
+    "mysticalagriculture:imperium_helmet": [
+      79596,
+      7.888415
+    ],
+    "mysticalagriculture:inferium_helmet": [
+      81612,
+      3.5126204
+    ],
+    "mysticalagriculture:prudentium_helmet": [
+      81083,
+      4.7686033
+    ],
+    "mysticalagriculture:supremium_helmet": [
+      77977,
+      11.270583
+    ],
+    "mysticalagriculture:tertium_helmet": [
+      80318,
+      6.3845787
+    ],
+    "naturesaura:depth_helmet": [
+      80827,
+      5.316139
+    ],
+    "naturesaura:infused_iron_helmet": [
+      82657,
+      1.2269194
+    ],
+    "naturesaura:sky_helmet": [
+      81875,
+      2.2447827
+    ],
+    "nuclearcraft:hazmat_mask": [
+      82960,
+      0.8376811
+    ],
+    "nuclearcraft:hev_helmet": [
+      78903,
+      9.332778
+    ],
+    "nuclearcraft:tough_helmet": [
+      81282,
+      4.3303447
+    ],
+    "nuclearscience:hazmathelmet": [
+      66969,
+      34.97474
+    ],
+    "nuclearscience:reinforcedhazmathelmet": [
+      19,
+      188.65785
+    ],
+    "occultism:otherworld_goggles": [
+      82930,
+      0.8764657
+    ],
+    "pneumaticcraft:compressed_iron_helmet": [
+      82616,
+      1.2795873
+    ],
+    "pneumaticcraft:pneumatic_helmet": [
+      82546,
+      1.3696512
+    ],
+    "primalextinction:bone_armor_helmet": [
+      82964,
+      0.83249766
+    ],
+    "primalextinction:fiberclotharmor_helmet": [
+      83200,
+      0.5046589
+    ],
+    "primalextinction:tanned_leather_armor_helmet": [
+      83344,
+      0.0426
+    ],
+    "productivebees:bee_nest_diamond_helmet": [
+      82262,
+      1.7373508
+    ],
+    "projecte:dm_helmet": [
+      81593,
+      3.5682683
+    ],
+    "projecte:gem_helmet": [
+      81438,
+      3.969004
+    ],
+    "projecte:rm_helmet": [
+      81490,
+      3.8416624
+    ],
+    "quark:forgotten_hat": [
+      83526,
+      0.0244
+    ],
+    "railcraft:goggles": [
+      83359,
+      0.0411
+    ],
+    "railcraft:steel_helmet": [
+      82655,
+      1.2294873
+    ],
+    "railways:black_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:blue_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:brown_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:cyan_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:gray_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:green_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:light_blue_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:light_gray_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:lime_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:magenta_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:orange_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:pink_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:purple_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:red_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:white_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "railways:yellow_conductor_cap": [
+      83140,
+      0.59678036
+    ],
+    "reliquary:witch_hat": [
+      83140,
+      0.59678036
+    ],
+    "rootsclassic:sylvan_hood": [
+      82912,
+      0.89967334
+    ],
+    "rootsclassic:wildwood_mask": [
+      82591,
+      1.3117309
+    ],
+    "tconstruct:plate_helmet": [
+      83140,
+      0.59678036
+    ],
+    "tconstruct:slime_helmet": [
+      83140,
+      0.59678036
+    ],
+    "tconstruct:travelers_helmet": [
+      83140,
+      0.59678036
+    ],
+    "tfmg:steel_helmet": [
+      81771,
+      2.3823528
+    ],
+    "thermal:beekeeper_helmet": [
+      83461,
+      0.030899998
+    ],
+    "thermal:diving_helmet": [
+      82995,
+      0.79220045
+    ],
+    "thermal:hazmat_helmet": [
+      83070,
+      0.6932441
+    ],
+    "toughasnails:leaf_helmet": [
+      83694,
+      0.0075999997
+    ],
+    "toughasnails:wool_helmet": [
+      83694,
+      0.0075999997
+    ],
+    "twilightforest:arctic_helmet": [
+      82632,
+      1.2590272
+    ],
+    "twilightforest:fiery_helmet": [
+      81240,
+      4.4243336
+    ],
+    "twilightforest:ironwood_helmet": [
+      82531,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_helmet": [
+      81990,
+      2.0932417
+    ],
+    "twilightforest:phantom_helmet": [
+      81913,
+      2.1946402
+    ],
+    "twilightforest:steeleaf_helmet": [
+      82055,
+      2.0078652
+    ],
+    "twilightforest:yeti_helmet": [
+      81942,
+      2.1564183
+    ],
+    "undergarden:ancient_helmet": [
+      82727,
+      1.1371077
+    ],
+    "undergarden:cloggrum_helmet": [
+      82796,
+      1.0486451
+    ],
+    "undergarden:froststeel_helmet": [
+      82153,
+      1.8795317
+    ],
+    "undergarden:utherium_helmet": [
+      81882,
+      2.235541
+    ]
+  }
+}
